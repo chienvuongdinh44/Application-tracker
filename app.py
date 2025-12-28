@@ -134,7 +134,4 @@ listbox.grid(
 
 
 # ----- START THE APP -----
-
-# This line starts the Tkinter event loop
-# It keeps the window open and waits for user actions
 root.mainloop()
